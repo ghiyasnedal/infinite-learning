@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MUHAMMAD GHIYATS - Portofolio</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 1em 0;
+    }
+
+    section {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    h1, h2, h3 {
+      color: #333;
+    }
+
+    h1 {
+      margin-bottom: 0.5em;
+    }
+
+    h2 {
+      border-bottom: 2px solid #333;
+      padding-bottom: 0.5em;
+      margin-bottom: 1em;
+    }
+
+    p {
+      line-height: 1.6;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    li {
+      margin-bottom: 0.5em;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1em 0;
+      background-color: #333;
+      color: #fff;
+      position: fixed;
+      width: 100%;
+      bottom: 0;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>MUHAMMAD GHIYATS</h1>
+    <p>Tempat Lahir: Bogor | Pendidikan: S1</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>Saya adalah seorang yang bersemangat dalam dunia teknologi. Saya memiliki latar belakang pendidikan S1 dan lahir di Bogor. Dengan keterampilan dalam pengembangan web, saya memiliki keinginan untuk terus belajar dan berkembang.</p>
+  </section>
+
+  <section>
+    <h2>Education</h2>
+    <ul>
+      <li>Sarjana (S1) - STT TERPADU NURUL FIKRI - 2021</li>
+      <!-- Gantilah [Nama Universitas] dan [Tahun] dengan informasi pendidikan Anda -->
+    </ul>
+  </section>
+
+  <section>
+    <h2>Portfolio</h2>
+    <!-- Tambahkan portofolio Anda di sini -->
+    <p>Portofolio akan segera hadir...</p>
+  </section>
+
+  <footer>
+    &copy; 2023 Muhammad Ghiyats - Portofolio
+  </footer>
+
+</body>
+</html>
